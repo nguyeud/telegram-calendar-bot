@@ -1,1 +1,1 @@
-# telegram-google-calendar-bot
+# telegram-calendar-bot
